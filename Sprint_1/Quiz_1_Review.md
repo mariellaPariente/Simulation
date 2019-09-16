@@ -20,21 +20,40 @@ If you get an *S* or *E* grade on most of the questions, you'll get satisfactory
 
 Explain each of the following roles:
 
-- Product owner
-- Scrum master
-- Team member
+Product owner: 
+     Defines the vision, Manages the product backlog, Prioritizes Stakeholder needs, Anticipates client needs
 
-What is the *sprint backlog*?
+Scrum master: 
+    Cleara obstacles. Establishies an environment where the team can be effective, Addresses team dynamics, ensures the team   
+    and product owner have a good relationship. Protects the team from outside interruptions and distractions.
+
+Team member: 
+    responsible for a release, review each others’ code and brainstorm ways to make work easier and faster. Everyone brings different   
+    experiences and can learn from each other.
+    
+
+What is the *sprint backlog*? is owned by the development team and the team determines how to achieve the Goal of the Sprint. Where a piece of work may be unachievable then the team should at meet with the Product Owner and discuss any required adjustments to the Sprint Plan in order to meet the Sprint Goal.
 
 Draw an example of a burndown chart. Make sure you label the axes to show what is being plotted.
 
 Define the concept of *velocity* in Scrum. What do Scrum teams do with velocity measurements and why are they useful?
 
-Describe what happens at a *daily standup meeting*.
+Describe what happens at a *daily standup meeting*. Each team member lists what they accomplished the previous day, what the want to accomplis today and if they have any blockers
+
+
 
 ## Stats
-
 Be able to calculate averages, medians, and variances for small data sets (about five values). You can bring a handheld calculator for the quiz.
+
+  Mean: is the Average central tendency
+
+  Median: Order from leas to greatest find the center number.
+  If the number of digits is even take the two center numbers and average them together
+
+  Mode: number that shows up the most in a series of numbers
+
+  Variances:
+
 
 Plot a histogram of the following values. Use a bin width of 10, so that the first bin holds values 0-9, the second holds 10-19, and so forth.
 
